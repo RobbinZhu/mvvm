@@ -102,7 +102,7 @@
 
 2.其他功能点的添加
 
-###Demo
+### Demo
 
 以下是一个使用这个简陋的MVVM小框架，做的一个todolist demo
 
@@ -115,3 +115,11 @@
 1.记录两种方案所消耗的时间
 
 2.使用devtools的Performance记录浏览器执行这一任务时在脚本运行、渲染、帧率等方面的不同表现
+
+本项目的demo页面
+
+https://textureunpacker.59124.com/mvvm/todo.html
+
+使用Vue.js实现的demo
+
+https://textureunpacker.59124.com/mvvm/vue-todo.html
